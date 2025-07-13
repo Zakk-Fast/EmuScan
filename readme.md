@@ -75,6 +75,8 @@ Want to change the color palette, layout, or CRT effects? Edit the `generateCss(
 ---
 
 ## Screenshot
+<img width="1899" height="907" alt="Screenshot 2025-07-13 014729" src="https://github.com/user-attachments/assets/477aa49e-cbd1-4249-a7df-be5e433d94ab" />
+<img width="1902" height="903" alt="Screenshot 2025-07-13 014802" src="https://github.com/user-attachments/assets/b65b964d-bf41-4fbb-87b0-43350d449ee3" />
 
 ---
 
