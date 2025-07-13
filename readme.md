@@ -92,4 +92,4 @@ If you build on it or make something cool, feel free to share it.
 This project is intended for personal archival and educational use.
 It does not condone or encourage software piracy. Please only use ROMs that you legally own.
 
-Made with a love for retro.
+Made with a love for retro ❤️
